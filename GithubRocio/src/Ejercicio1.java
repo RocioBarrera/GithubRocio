@@ -9,7 +9,7 @@ public class Ejercicio1 {
 	private static final int LIMITE_JOVEN = 29;
 	
 	private static Scanner teclado = new Scanner(System.in);
-	
+	//rocio intento comentar como alumno1
 	public static void main(String[] args) {
 		// Variables
 		int edad;
